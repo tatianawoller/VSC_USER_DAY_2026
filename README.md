@@ -1,5 +1,5 @@
 # KULeuven/UHasselt Tier-2 HPC User Day March 26, 2026
-GitHub repository for vsc users that want to start computing on new Mindwell cluster
+GitHub repository for vsc users that want to start computing on the new cluster
 
 ## Program
 
