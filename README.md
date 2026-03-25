@@ -33,7 +33,6 @@ GitHub repository for vsc users that want to start computing on the new cluster
   
     - [16:25 - ] Reception
 
-- Reception: 16:25 – 17:30 &nbsp; (Foyer)
 
 ## What is it?
 
