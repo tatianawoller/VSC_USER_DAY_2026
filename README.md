@@ -1,5 +1,6 @@
-# KULeuven/UHasselt Tier-2 HPC User Day March 26, 2026
-GitHub repository for vsc users that want to start computing on the new cluster
+# KU Leuven / UHasselt Tier-2 HPC User Day (March 26, 2026)
+
+This year is a special edition which includes the inauguration of our new Tier‑2 cluster!
 
 ## Program
 
@@ -32,9 +33,4 @@ GitHub repository for vsc users that want to start computing on the new cluster
     - [16:05 - 16:25] User testimonial - George Miloshevich: "ML in traditional HPC simulations" (TBC)
   
     - [16:25 - ] Reception
-
-
-## What is it?
-
-1. README.md - info about content.
 
