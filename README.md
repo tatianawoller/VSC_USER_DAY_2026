@@ -10,7 +10,7 @@ This year is a special edition which includes the inauguration of our new Tierâ€
   
    - [11:00 - 12:00] Training: Data management, data outflow & GPFS best practices
   
-   - [10:30 - 10:30] and [11:30-12:00]: Datacenter visits
+   - [10:00 - 10:30] and [11:30-12:00]: Datacenter visits
 
 - Afternoon (Thermotechnisch Instituut):
 
